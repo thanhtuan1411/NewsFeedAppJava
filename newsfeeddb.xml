@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><newsfeeds>
+    <newsfeed id="1" newsFeedText="News Feed Text 1" publicationDate="2016-08-20"/>
+    <newsfeed id="2" newsFeedText="News Feed Text 2" publicationDate="2016-08-21"/>
+<newsfeed id="4" newsFeedText="Tuan Do" publicationDate="Fri Sep 30 00:00:00 EDT 2016"/></newsfeeds>

@@ -1,0 +1,8 @@
+com/tuando/newsfeed/controller/IndexController.class
+com/tuando/newsfeed/model/NewsFeed.class
+com/tuando/newsfeed/configuration/CORSFilter.class
+com/tuando/newsfeed/configuration/NewsFeedInitializer.class
+com/tuando/newsfeed/service/NewsFeedServiceImpl.class
+com/tuando/newsfeed/configuration/NewsFeedConfiguration.class
+com/tuando/newsfeed/controller/NewsFeedRestController.class
+com/tuando/newsfeed/service/NewsFeedService.class

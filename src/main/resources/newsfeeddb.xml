@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsfeeds>
+    <newsfeed id="1" newsFeedText = "News Feed Text 1" publicationDate = "2016-08-20"/>
+    <newsfeed id="2" newsFeedText = "News Feed Text 2" publicationDate = "2016-08-21"/>
+</newsfeeds>
