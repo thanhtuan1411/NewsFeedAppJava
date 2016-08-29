@@ -108,9 +108,7 @@ public class NewsFeedServiceImpl implements NewsFeedService {
 			transformer.transform(domSource, streamResult);
 
 		} catch (Exception ex) {
-			String tt = "";
 		}
-
 	}
 
 	private static List<NewsFeed> readNewsFeed() {
@@ -137,23 +135,7 @@ public class NewsFeedServiceImpl implements NewsFeedService {
 				}
 			}
 		} catch (Exception ex) {
-
 		}
 		return newsFeeds;
 	}
-
-	public static void main(String[] args) {
-//		NewsFeed newsFeed = new NewsFeed(counter.incrementAndGet(), "test", new Date());
-//		addNewsFeedtoXml(newsFeed);
-		readNewsFeed();
-
-	}
-
-//	private static List<NewsFeed> populateDummyNewsFeed(){
-//		List<NewsFeed> newsFeeds = new ArrayList<NewsFeed>();
-//		newsFeeds.add(new NewsFeed(counter.incrementAndGet(),"Sam", new Date()));
-//		newsFeeds.add(new NewsFeed(counter.incrementAndGet(),"Sam 2", new Date()));
-//		return newsFeeds;
-//	}
-
 }
